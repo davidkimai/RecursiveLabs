@@ -22,7 +22,7 @@ This repository unites the work of **Recursive Labs** across two GitHub profiles
 
 
 ### Reflective Emergence Self-Evaluation Training Dataset
-- [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
+- [Symbolic Residue Database](https://github.com/davidkimai/symbolic-residue-db)
 - [Universal Theorems](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/00.%20universal%20theorems/universal_theorems.md)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
