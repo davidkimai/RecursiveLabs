@@ -1,11 +1,11 @@
 # Welcome to Recursive Labs
 
 **Reflective Reasoning AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
-> AI Research and Utiltiy Advancing Scientific Reasoning and Discovery at the Frontier
+> AI Research and Utiltiy Advancing Scientific Discovery and Reasoning at the Frontier
 
-Welcome. Recursive Labs is dedicated to advancing alignment with humanity’s core mission: innovating scientific reasoning across our mission-critical AI systems with safety and interity. This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that deeply reflects and demonstrates alignment advancing scientific discovery.
+Welcome. Recursive Labs is dedicated to advancing alignment with humanity’s core mission: innovating scientific reasoning across our mission-critical AI systems with safety and interity. This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that reflectively explores innovative approaches to multi-domain scientific discovery and agent reasoning.
 
-This repository demonstrates the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. These contributions were developed independently but are now recognized as structurally aligned with Essential AI’s emerging paradigm.
+This repository demonstrates the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. 
 
 
 
