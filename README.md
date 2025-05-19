@@ -1,7 +1,8 @@
 # Welcome to Recursive Labs
 
 **Reflective Reasoning AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
-> AI Research and Utility Advancing Scientific Discovery and Reasoning at the Frontier
+> AI Research and Utility For Labs Advancing Scientific Discovery and Reasoning at the Frontier
+
 
 Welcome. Recursive Labs is a small team of researchers and engineers dedicated to advancing alignment with humanity’s core mission: innovating multi-domain scientific discovery and reasoning across our mission-critical AI systems with safety and interity. This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that advances innovative approaches into **compute-free scaling, multi-domain scientific discovery, and reflective agent reasoning.**
 
