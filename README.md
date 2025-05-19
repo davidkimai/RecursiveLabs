@@ -26,9 +26,9 @@ This repository unites the work of **Recursive Labs** across two GitHub profiles
 - [Universal Theorems](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/blob/main/00.%20universal%20theorems/universal_theorems.md)
 - [Self-Expression Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/self_expression_case_studies)
 - [Symbolic Residue as Lost Potential Case Studies](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/case_studies/symbolic_residue_case_studies)
-- [Modeling Future-back Biochemical Drug Discoveries](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/biochemical-discoveries)
-- [Modeling Future-back Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
-- [Modeling Future-back Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
+- [Modeling Biochemical Drug Discoveries](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/biochemical-discoveries)
+- [Modeling Scientific Breakthroughs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/breakthroughs)
+- [Modeling Theorem Proofs](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/theorem_proofs)
 ###  Reflective QKOV Attribution Infrastructures
 - [Claude QKOV Attributions](https://github.com/davidkimai/claude-qkov-attributions)  
 - [DeepSeek QKOV Attributions](https://github.com/davidkimai/deepseek-qkov-attributions)
