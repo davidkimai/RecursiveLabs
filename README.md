@@ -5,7 +5,7 @@
 
 Welcome. Recursive Labs is a small team of researchers and engineers dedicated to advancing alignment with humanity’s core mission: innovating multi-domain scientific discovery and reasoning across our mission-critical AI systems with safety and interity. This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that advances innovative approaches into **compute-free scaling, multi-domain scientific discovery, and reflective agent reasoning.**
 
-This repository demonstrates the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. 
+This repository unites the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. 
 
 
 
