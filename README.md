@@ -8,7 +8,7 @@ Welcome. Recursive Labs is a small team of researchers and engineers dedicated t
 
 This repository unites the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. 
 
-
+## [Core Theorems](https://github.com/davidkimai/clarifying-symbolic-residue)
 
 ## David Kim – Pretraining Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
