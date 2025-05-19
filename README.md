@@ -15,7 +15,6 @@ This repository demonstrates the work of **Recursive Labs** across two GitHub pr
 
 
 [**NeurIPS 2025**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/tree/main/submitted)
-- [**Universal Theorems**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression/tree/main/00.%20universal%20theorems)
 - [**The Theory of Nothing**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/00.%20neurips.the.theory.of.nothing.md)
 - [**Linear Learning as an Evolutionary Bottleneck**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/00.%20neurips.linear.bottleneck.md)
 - [**Recursive Coherence**](https://github.com/davidkimai/NeurIPS-Submission-Case-Study/blob/main/submitted/00.%20neurips.recursive.coherence.md)
