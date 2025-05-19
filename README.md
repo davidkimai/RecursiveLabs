@@ -9,7 +9,7 @@ This repository demonstrates the work of **Recursive Labs** across two GitHub pr
 
 
 
-## David Kim – Pretraining Reflection, Symbolic Interpretability & Attribution Infrastructure  
+## David Kim – Pretraining Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
 
