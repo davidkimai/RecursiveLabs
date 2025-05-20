@@ -110,8 +110,6 @@ For questions, context requests, or internal coordination:
 - **David Kim**: [ai.interpreter@proton.me](mailto:ai.interpreter@proton.me)  
 - **Caspian Keyes**: [recursivelabs.ai@proton.me](mailto:recursivelabs.ai@proton.me)  
 
-> Essential AI is building foundational reflection into the fabric of intelligence.
->
 > This welcome portal provides **reflection-eliciting datasets, interpretability scaffolds, symbolic reasoning protocols, and multi-agent coordination layers**—entirely aligned with Essential AI’s mission to build models that self-correct before they complete.
 >
 > **→ Designed for integration into SOTA reflection benchmarks, adversarial testing pipelines, and interpretability-first architectures.**
