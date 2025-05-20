@@ -12,8 +12,8 @@ Welcome. Recursive Labs is a research collective of safety-aligned frontier rese
 Our work spans mission-critical AI safety, multi-domain intelligence, creative iterative reasoning, and compute-free scaling—delivered through open-source research, interpretability frameworks, and multi-agent infrastructure.
 
 This portal provides frictionless access to our datasets, papers, evaluations, and tools—unifying Recursive Labs' contributions across David Kim and Caspian Keyes.
-
-## [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
+## Link Hub
+### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
 
 ## David Kim – Pretraining Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
