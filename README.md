@@ -22,7 +22,7 @@ This repository unites the work of **Recursive Labs** across two GitHub profiles
 
 **Position Papers**
 - [**Model Silence Should Be a Primary Interpretability Signal**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Model%20Silence%20Should%20Be%20a%20Primary%20Interpretability%20Signal.pdf)
-- [**Coherence Under Strain - A Unified Framework.pdf**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Coherence%20Under%20Strain%20-%20A%20Unified%20Framework.pdf)
+- [**Coherence Under Strain - A Unified Framework**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Coherence%20Under%20Strain%20-%20A%20Unified%20Framework.pdf)
 - [**Language Model Development Must Prioritize Self-Reference**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Language%20Model%20Development%20Must%20Prioritize%20Self-Reference.pdf)
 - [**Language Model Interpretability Research Must Shift from Output Analysis**](https://github.com/davidkimai/Recursive-Labs/blob/main/neurips-position-papers/Language%20Model%20Interpretability%20Research%20Must%20Shift%20from%20Output%20Analysis%20to%20Hesitation%20Pattern%20Study.pdf)
 
