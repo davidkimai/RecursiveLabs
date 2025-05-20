@@ -58,6 +58,7 @@ This repository unites the work of **Recursive Labs** across two GitHub profiles
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
+
 ###  Operating System Structures & Thought Frameworks
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) 
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
