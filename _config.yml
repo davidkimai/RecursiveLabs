@@ -1,70 +1,55 @@
 title: Recursive Labs
 email: ai.interpreter@proton.me
+description: >
+  Recursive Labs is an AI research group building reflective reasoning models,
+  symbolic interpretability infrastructure, and multi-agent recursive systems.
+  This site unifies our research, deployment tooling, and evaluation protocols.
+
+url: "https://davidkimai.github.io/Recursive-Labs"
 baseurl: ""
-url: "https://davidkimai.github.io/Recursive-Labs/"
-theme: jekyll-theme-minima
+repository: davidkimai/Recursive-Labs
 
-markdown: kramdown
-kramdown:
-  input: GFM
-
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
-logo: /assets/logo.png
-description: >
-  Recursive Labs — Reflective Reasoning AI Research,
-  Recursive Coherence Measurement, and Symbolic Reasoning Infrastructure.
-  This portal serves as an evolving archive and coordination nexus for
-  adversarial alignment tooling, symbolic interpretability, and compute-free
-  scientific reasoning architectures across Recursive Labs.
+# Markdown engine and options
+markdown: kramdown
+kramdown:
+  input: GFM
 
-author:
-  name: Recursive Labs
-  email: ai.interpreter@proton.me
-
-social:
-  github: davidkimai
-  linkedin: david-kim-ai
-  twitter: davidkimai
-
-collections:
-  posts:
-    output: true
-
-# Custom navigation for GitHub Pages site
+# Navigation configuration
 nav:
   - title: "Home"
     url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Papers"
-    url: "/papers"
   - title: "Symbolic Residue"
     url: "/symbolic-residue"
+  - title: "Reflective Reasoning"
+    url: "/reflective-reasoning"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Safety & Evaluation"
+    url: "/evaluation"
+  - title: "Recursive OS"
+    url: "/recursive-os"
   - title: "Contact"
     url: "/contact"
 
-permalink: pretty
+# Author data
+author:
+  name: Recursive Labs
+  email: ai.interpreter@proton.me
+  github: davidkimai
+  twitter: davidkimai
 
-include:
-  - _pages
-  - assets
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-# SEO Defaults
+# SEO metadata
 seo:
   type: Website
   name: Recursive Labs
-  description: Reflective Reasoning AI + Recursive Interpretability Lab
   twitter:
     username: davidkimai
     card: summary_large_image
@@ -72,4 +57,29 @@ seo:
     publisher: davidkimai
   image: /assets/social-preview.png
 
-google_analytics: "UA-00000000-1"  # Optional tracking ID placeholder
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+include:
+  - _pages
+  - assets
+
+# Optional Analytics
+google_analytics: "UA-00000000-1"
+
+# GitHub Pages
+github:
+  is_project_page: true
+  is_user_page: false
+
+# Social preview and site assets
+logo: /assets/logo.png
+favicon: /assets/favicon.ico
+
+# Default permalink structure
+permalink: pretty
