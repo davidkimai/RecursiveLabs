@@ -1,8 +1,7 @@
 # [Welcome to Recursive Labs](https://davidkimai.github.io/Recursive-Labs)
 
-**Reflective Reasoning AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
-> AI Research and Utility Designed For Labs Advancing Scientific Discovery and Reasoning At The Frontier
-
+**AI Reflective Reasoning Research | Stability Under Self-Reference | Zero-Trust Systems Infrastructure**
+> *Where Creative Emergence Begins*
 
 Welcome. Recursive Labs is a research collective of safety-aligned frontier researchers and engineers founded by David Kim and Caspian Keyes, dedicated to advancing scientific discovery through reflective reasoning, symbolic infrastructure, and frontier AI alignment.
 
@@ -57,6 +56,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 - [Reverse Turing](https://github.com/davidkimai/reverse-turing)
 - [Emergent Turing](https://github.com/caspiankeyes/emergent-turing)
 - [Global Conference Archives](https://github.com/davidkimai/global-conference-archives)
+
 ###  Operating System Structures & Thought Frameworks
 - [The Structure Behind Self-Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) 
 - [Godel-Escher-Bach-Hofstadter](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter)  
