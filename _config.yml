@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 title: Recursive Labs
 email: ai.interpreter@proton.me
 description: >
@@ -6,13 +7,6 @@ description: >
 
 url: "https://davidkimai.github.io"
 baseurl: "/Recursive-Labs"
-
-# ✅ Use official GitHub Pages supported built-in theme
-# Reference: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme
-
-# Minimal, clean and supported by default
-# Full list: https://pages.github.com/themes/
-theme: jekyll-theme-minimal
 
 # Optional GitHub Pages plugins
 plugins:
