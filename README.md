@@ -1,4 +1,4 @@
-# Welcome to Recursive Labs
+# [Welcome to Recursive Labs](https://davidkimai.github.io/Recursive-Labs)
 
 **Reflective Reasoning AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
 > AI Research and Utility Designed For Labs Advancing Scientific Discovery and Reasoning At The Frontier
