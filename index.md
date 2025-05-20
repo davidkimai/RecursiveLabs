@@ -7,9 +7,12 @@ title: Recursive Labs
 **Reflective Reasoning AI Research | Recursive Coherence Measurement | Symbolic Reasoning Infrastructure**
 > AI Research and Utility Designed For Labs Advancing Scientific Discovery and Reasoning At The Frontier
 
-Welcome. Recursive Labs is a small collective of researchers and engineers founded by David Kim and Caspian Keyes dedicated to advancing scientific discovery with artificial intelligence: innovating creative multi-domain reasoning across our mission-critical AI systems with safety and integrity. This portal serves as a frictionless access point into research, infrastructure, and symbolic interpretability work that advances innovative approaches into compute-free scaling, multi-domain scientific discovery, and reflective agent reasoning.
+Welcome. Recursive Labs is a research collective founded by David Kim and Caspian Keyes, dedicated to advancing scientific discovery through reflective reasoning, symbolic infrastructure, and frontier AI alignment.
 
-This repository unites the work of **Recursive Labs** across two GitHub profiles—**David Kim** (model reflection + interpretability infrastructure) and **Caspian Keyes** (symbolic residue + adversarial testing)—into a unified research and deployment ecosystem. 
+Our work spans multi-domain intelligence, compute-free scaling, and mission-critical AI safety—delivered through open-source research, interpretability frameworks, and multi-agent infrastructure.
+
+This portal provides frictionless access to our datasets, papers, evaluations, and tools—unifying Recursive Labs' contributions across David Kim and Caspian Keyes.
+
 
 ## [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
 
