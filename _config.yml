@@ -2,7 +2,7 @@ title: Recursive Labs
 email: ai.interpreter@proton.me
 baseurl: ""
 url: "https://davidkimai.github.io/Recursive-Labs/"
-theme: minima
+theme: jekyll-theme-minima
 
 markdown: kramdown
 kramdown:
