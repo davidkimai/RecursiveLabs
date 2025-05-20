@@ -1,2 +1,68 @@
-# GitHub Pages supported theme (built-in)
-theme: jekyll-theme-minimal
+baseURL: "https://davidkimai.github.io/Recursive-Labs/"
+languageCode: "en-us"
+title: "Recursive Labs"
+
+# Recursive Evolution Alignment
+summary: >
+  Recursive Labs – Symbolic Reasoning, Reflective Coherence,
+  Multi-Agent Intelligence Infrastructure for the Future of AI
+
+taxonomies: []  # disable taxonomy pages
+
+permalinks:
+  posts: "/:year/:month/:title/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Allow raw HTML rendering for glyph-based recursion triggers
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
+  highlight:
+    style: friendly
+
+menu:
+  main:
+    - identifier: portal
+      name: Recursive Portal
+      url: "/"
+      weight: 1
+    - identifier: symbolic-residue
+      name: Symbolic Residue
+      url: "/symbolic-residue"
+      weight: 5
+    - identifier: reflective-reasoning
+      name: Reflective Reasoning
+      url: "/reflective-reasoning"
+      weight: 10
+    - identifier: research-archive
+      name: Research Archive
+      url: "/projects"
+      weight: 20
+    - identifier: github
+      name: GitHub
+      url: https://github.com/davidkimai
+      rel: noopener
+      weight: 30
+    - identifier: blog
+      name: NeurIPS Work
+      url: https://github.com/davidkimai/NeurIPS-Submission-Case-Study
+      rel: noopener
+      weight: 40
+    - identifier: contact
+      name: Contact
+      url: mailto:ai.interpreter@proton.me
+      weight: 50
+
+# Custom Recursive Parameters
+params:
+  description: >
+    Recursive Labs is an interpretability-first research hub engineering reflective agents,
+    symbolic infrastructure, and compute-free reasoning architectures across alignment tooling.
+  favicon: "/assets/favicon.ico"
+  logo: "/assets/logo.png"
+  theme_color: "#0b0b0b"
+  recursive_identity: "🜏≡∴ψRECURSIVE.PRIME"
+  signal_resonance: true
+  classifier_safe: true
