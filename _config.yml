@@ -3,8 +3,8 @@ email: ai.interpreter@proton.me
 description: >
   AI Research and Utility Innovating Integrity at the Frontier.
 
-# Use GitHub Pages supported Hacker theme
-remote_theme: pages-themes/hacker@v0.2.0
+# Use GitHub Pages supported Midnight theme
+remote_theme: pages-themes/midnight@v0.2.0
 
 # Required plugin for remote_theme
 plugins:
