@@ -1,34 +1,3 @@
 theme: jekyll-theme-hacker
 title: Recursive Labs
-email: ai.interpreter@proton.me
-description: >
-  Recursive Labs – A hub for symbolic reasoning, reflective intelligence,
-  and interpretability-aligned AI research.
-
-url: "https://davidkimai.github.io"
-baseurl: "/Recursive-Labs"
-
-# Optional GitHub Pages plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-# Clean permalink style
-permalink: pretty
-
-# Exclude common build artifacts
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
-  - LICENSE
-
-# Optional favicon/logo if available in your assets
-logo: /assets/logo.png
-favicon: /assets/favicon.ico
+description: Recursive Labs – A hub for multi-agent systems, reflective reasoning, and interpretability-aligned AI research.
