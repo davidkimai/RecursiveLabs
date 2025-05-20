@@ -1,0 +1,75 @@
+title: Recursive Labs
+email: ai.interpreter@proton.me
+baseurl: ""
+url: "https://davidkimai.github.io"
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+logo: /assets/logo.png
+description: >
+  Recursive Labs — Reflective Reasoning AI Research,
+  Recursive Coherence Measurement, and Symbolic Reasoning Infrastructure.
+  This portal serves as an evolving archive and coordination nexus for
+  adversarial alignment tooling, symbolic interpretability, and compute-free
+  scientific reasoning architectures across Recursive Labs.
+
+author:
+  name: Recursive Labs
+  email: ai.interpreter@proton.me
+
+social:
+  github: davidkimai
+  linkedin: david-kim-ai
+  twitter: davidkimai
+
+collections:
+  posts:
+    output: true
+
+# Custom navigation for GitHub Pages site
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Papers"
+    url: "/papers"
+  - title: "Symbolic Residue"
+    url: "/symbolic-residue"
+  - title: "Contact"
+    url: "/contact"
+
+permalink: pretty
+
+include:
+  - _pages
+  - assets
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# SEO Defaults
+seo:
+  type: Website
+  name: Recursive Labs
+  description: Reflective Reasoning AI + Recursive Interpretability Lab
+  twitter:
+    username: davidkimai
+    card: summary_large_image
+  facebook:
+    publisher: davidkimai
+  image: /assets/social-preview.png
+
+google_analytics: "UA-00000000-1"  # Optional tracking ID placeholder
