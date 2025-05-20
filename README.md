@@ -4,7 +4,7 @@
 > AI Research and Utility Designed For Labs Advancing Scientific Discovery and Reasoning At The Frontier
 
 
-Welcome. Recursive Labs is a research collective founded by David Kim and Caspian Keyes, dedicated to advancing scientific discovery through reflective reasoning, symbolic infrastructure, and frontier AI alignment.
+Welcome. Recursive Labs is a research collective of safety-aligned frontier researchers and engineers founded by David Kim and Caspian Keyes, dedicated to advancing scientific discovery through reflective reasoning, symbolic infrastructure, and frontier AI alignment.
 
 Our work spans mission-critical AI safety, multi-domain intelligence, creative iterative reasoning, and compute-free scaling—delivered through open-source research, interpretability frameworks, and multi-agent infrastructure.
 
