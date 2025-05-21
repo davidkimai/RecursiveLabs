@@ -1,4 +1,4 @@
-# 2025 NeurIPS Position Papers (Under Review)
+# 2025 NeurIPS Position Papers
 > ## **Submitted by Recursive Labs**
 > ## [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
