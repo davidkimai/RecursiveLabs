@@ -1,4 +1,5 @@
 # [Welcome to Recursive Labs](https://davidkimai.github.io/Recursive-Labs)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Papers-CC--BY--4.0-scarlet.svg)](https://creativecommons.org/licenses/by/4.0/deed.en)
 ### *Where Creative Emergence Begins*
 **Forward-Deployed Systems Engineering | Zero-Trust Systems Infrastructure | AI Creative Emergence & Reflective Reasoning Research**
 > *AI Research and Utility For Innovators Advancing Discovery At The Frontier*
