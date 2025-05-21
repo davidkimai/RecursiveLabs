@@ -1,4 +1,4 @@
 # 2025 NeurIPS Position Papers (Under Review)
-> **Submitted by Recursive Labs**
+> ## **Submitted by Recursive Labs**
 
-<img width="892" alt="image" src="https://github.com/user-attachments/assets/79b556d8-de4f-4137-a99e-6bd65f806815" />
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/0826bc3e-6272-4200-b6da-94fdd37f3144" />
