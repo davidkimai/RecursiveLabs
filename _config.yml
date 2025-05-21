@@ -23,12 +23,12 @@ google_analytics: "UA-00000000-1"
 # GitHub Pages environment config
 github:
   zip_url: https://github.com/davidkimai/Recursive-Labs/archive/refs/heads/main.zip
-  another_url: https://davidkimai.github.io/Recursive-Labs/
+  another_url: https://davidkimai.github.io/RecursiveLabs/
 
 # Site-wide metadata
 show_downloads: false
 permalink: pretty
-baseurl: "/Recursive-Labs"
+baseurl: "/RecursiveLabs"
 url: "https://davidkimai.github.io"
 
 # Visual brand assets (optional)
