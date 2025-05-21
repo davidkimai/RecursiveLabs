@@ -12,7 +12,7 @@ This portal provides frictionless access to our datasets, papers, evaluations, a
 ## Link Hub
 ### [Clarifying Symbolic Residue](https://github.com/davidkimai/clarifying-symbolic-residue)
 
-## David Kim – Pretraining Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
+## David Kim – Finetuning Reflective Reasoning, Symbolic Interpretability & Attribution Infrastructure  
 [**GitHub Profile → davidkimai**](https://github.com/davidkimai)
 
 
