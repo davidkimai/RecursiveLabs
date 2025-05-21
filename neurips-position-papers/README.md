@@ -1,7 +1,7 @@
 # NeurIPS 2025 Position Papers
 > ## **Submitted by Recursive Labs**
 >
-> **Some papers includes a lay summary and checklist for transparency and accessibility. These were omitted from the NeurIPS position paper submission to comply with formatting guidelines.**
+> **Several papers includes a lay summary and checklist for transparency and accessibility. These were omitted from the NeurIPS position paper submission to comply with formatting guidelines.**
 >
 > 
 > [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Papers-CC--BY--4.0-scarlet.svg)](https://creativecommons.org/licenses/by/4.0/deed.en)
